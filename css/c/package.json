@@ -1,0 +1,16 @@
+{
+  "name": "@pnpmtest/page",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo!"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

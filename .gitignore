@@ -1,0 +1,11 @@
+dist
+.DS_Store
+node_modules
+coverage
+temp
+explorations
+*.log
+.idea
+!pnpm-binary/dist
+pnpm-binary/dist/node_modules
+**/packages/secret/

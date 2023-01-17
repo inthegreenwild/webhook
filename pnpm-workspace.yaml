@@ -1,0 +1,6 @@
+packages:
+  # all packages in subdirs of packages/ and components/
+  - "css/**"
+  - "ui-vue3/**"
+  # exclude packages that are inside test directories
+  - "!**/test/**"

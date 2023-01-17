@@ -1,0 +1,16 @@
+{
+  "name": "@pnpmtest/header",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

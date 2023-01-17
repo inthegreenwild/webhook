@@ -1,0 +1,16 @@
+{
+  "name": "@pnpmtest/button",
+  "version": "2.1.0-beta.1",
+  "description": "a buttno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
