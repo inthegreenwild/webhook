@@ -1,7 +1,10 @@
 pipeline {
+	agent { label 'default'}
 	stages {
 		stage('prepare') {	
-			echo "build"
+			steps {
+				echo "build"
+			}
 		}
 	}
 }
